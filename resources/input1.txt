@@ -1,0 +1,4 @@
+teste para materia de tp2
+do bonifacio, tp2 e uma materia 
+e as stopwords tao em ingles
+esse programa para tp2 
