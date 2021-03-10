@@ -8,4 +8,4 @@ Compile:
        
 Run:
     
-    ./bin/main
+    ./bin/main.exe ./resources/dracula.txt ./resources/stop_words.txt 20
